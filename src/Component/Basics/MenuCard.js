@@ -20,7 +20,7 @@ const MenuCard = ({ menuProps }) => {
                       </span>|<span className="subtle time">{time}
                       </span>
                       <div className='btn-container'>
-                        <a className="card-btn">Read</a>
+                        <a className="card-btn" href="#" style={{textDecoraton:"none"}}>Read</a>
                       </div>
                     </div>
                   </div>

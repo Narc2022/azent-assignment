@@ -10,9 +10,8 @@ const App = () => {
         <MainNav />
       </div>
       <section className='heading'>
-      <h4 style={{ width: "100%", textAlign: "center" }}>Explore Our Events</h4>
+        <h4 style={{ width: "100%", textAlign: "center" }}>Explore Our Events</h4>
       </section>
-      
       <div className="main-body-container">
         <Screen />
       </div>
