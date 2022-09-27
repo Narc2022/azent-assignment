@@ -143,6 +143,11 @@ span.subtle.time {
   margin: 10px 0px;
 }
 
+a.card-btn:hover {
+  background: #00C853;
+  color: #ffffff;
+}
+
 .card-tag {
   float: right;
   margin: 5px 0 0;
