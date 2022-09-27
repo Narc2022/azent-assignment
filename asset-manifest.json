@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/azent-assignment/static/css/main.41538999.css",
+    "main.js": "/azent-assignment/static/js/main.a7c41233.js",
+    "index.html": "/azent-assignment/index.html",
+    "main.41538999.css.map": "/azent-assignment/static/css/main.41538999.css.map",
+    "main.a7c41233.js.map": "/azent-assignment/static/js/main.a7c41233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41538999.css",
+    "static/js/main.a7c41233.js"
+  ]
+}
